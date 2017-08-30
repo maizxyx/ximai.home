@@ -1,0 +1,2 @@
+# ximai.home
+blog
